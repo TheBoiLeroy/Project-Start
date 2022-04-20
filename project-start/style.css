@@ -76,7 +76,9 @@ body{
     margin: auto;
 }
 /*NAV*/
-
+.sticky{
+    position:fixed
+}
 .main-nav{
     display:flex;
     list-style: none;
